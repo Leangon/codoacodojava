@@ -1,0 +1,6 @@
+com\mycompany\oradorescodo\JakartaRestConfiguration.class
+com\mycompany\oradorescodo\resources\JakartaEE10Resource.class
+Config\Conection.class
+Controlador\Controlador.class
+Modelo\Speaker.class
+ModeloDAO\SpeakerDAO.class
